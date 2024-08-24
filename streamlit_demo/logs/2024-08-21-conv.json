@@ -1,0 +1,1 @@
+{"type": "chat", "model": "internvl2_4b_phi3_3_8b_dynamic_res_2nd_finetune_lora_checkpoint-200", "messages": [{"role": "user", "content": "write down in json format scores of virat kohli", "filenames": ["logs/serve_images/2024-08-21/a2d2f2e520c0e6560b357035b6f78ee3.jpg"]}, {"role": "assistant", "content": ""}]}
